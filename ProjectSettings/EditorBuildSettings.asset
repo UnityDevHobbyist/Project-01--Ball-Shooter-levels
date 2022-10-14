@@ -8,16 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: d0f28786d91d6b74cb4dfd2d877f3cf3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene 1.unity
     guid: bf61c7b527c928b4187f43de51acc023
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene2.unity
     guid: 92b880a81104dd7438df43995a56cf2e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene 3.unity
     guid: 6fee1edae89d2b548bfce544e648782b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene 4.unity
     guid: 4880da588c1bef147a4b52421dc1e204
   - enabled: 1
@@ -48,9 +48,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Scenes that are not being used/Scene 9.unity
     guid: 34540dcebde998b43861afccfbaf753e
   - enabled: 0
-    path: Assets/Scenes/Scenes that are not being used/Scene 10.unity
-    guid: db65ff504ceb39045a0d972feaf99344
-  - enabled: 0
     path: Assets/Scenes/Scenes that are not being used/Old Scene 2.unity
     guid: 1ea60c31e4cfacf418cdc57242ab1d88
   - enabled: 0
@@ -71,4 +68,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Scenes that are not being used/Scene 10.unity
+    guid: db65ff504ceb39045a0d972feaf99344
   m_configObjects: {}
